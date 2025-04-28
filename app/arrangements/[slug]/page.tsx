@@ -1,14 +1,13 @@
 import arrangements from "../../../data/arrangements.json";
 import Link from "next/link";
 
-type ArrangementPageProps = {
-  params: {
-    slug: string;
-  };
-};
+// Fetching arrangement data directly in the component
+export default async function ArrangementPage({ params }: { params: { slug: string } }) {
+  // Await params to ensure correct handling
+  const { slug } = await params;
 
-export default async function ArrangementPage({ params }: ArrangementPageProps) {
-  const arrangement = arrangements.find((a) => a.slug === params.slug);
+  // Find the arrangement that matches the slug
+  const arrangement = arrangements.find((a) => a.slug === slug);
 
   if (!arrangement) {
     return (
@@ -21,7 +20,6 @@ export default async function ArrangementPage({ params }: ArrangementPageProps) 
   return (
     <main className="min-h-screen bg-[#f9fafb] p-8">
       <div className="max-w-4xl mx-auto space-y-8">
-
         {/* Back Button */}
         <Link href="/" className="text-green-600 hover:underline flex items-center space-x-2">
           <span className="text-2xl">&larr;</span>
@@ -94,7 +92,6 @@ export default async function ArrangementPage({ params }: ArrangementPageProps) 
             ))}
           </div>
         </section>
-
       </div>
     </main>
   );
