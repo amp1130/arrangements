@@ -1,7 +1,13 @@
 import arrangements from "../../../data/arrangements.json";
 import Link from "next/link";
 
-export default function ArrangementPage({ params }: { params: { slug: string } }) {
+type ArrangementPageProps = {
+  params: {
+    slug: string;
+  };
+};
+
+export default async function ArrangementPage({ params }: ArrangementPageProps) {
   const arrangement = arrangements.find((a) => a.slug === params.slug);
 
   if (!arrangement) {
