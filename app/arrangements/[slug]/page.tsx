@@ -1,10 +1,12 @@
 import arrangements from "../../../data/arrangements.json";
 import Link from "next/link";
 
+export type paramsType = Promise<{ slug: string }>;
+
 // Fetching arrangement data directly in the component
-export default async function ArrangementPage({ params }: { params: { slug: string } }) {
+export default async function ArrangementPage(props: { params: paramsType }) {
   // Await params to ensure correct handling
-  const { slug } = await params;
+  const { slug } = await props.params;
 
   // Find the arrangement that matches the slug
   const arrangement = arrangements.find((a) => a.slug === slug);
