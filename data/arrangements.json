@@ -61,7 +61,7 @@
     "audio": "/audio/Hymn of Acxiom.mp3",
     "fullScore": "/scores/hymn of acxiom/Hymn of Acxiom.pdf",
     "instruments": ["French Horn"],
-    "coverImage": "/images/Hymn of Acxiom.jpg",
+    "coverImage": "/images/Hymn Of Acxiom.jpg",
     "parts": [
       { "name": "Horn 1", "url": "/scores/hymn of acxiom/Hymn of Acxiom-Horn_1.pdf" },
       { "name": "Horn 2", "url": "/scores/hymn of acxiom/Hymn of Acxiom-Horn_2.pdf" },
