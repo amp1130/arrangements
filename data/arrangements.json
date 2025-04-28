@@ -1,0 +1,94 @@
+[
+  {
+    "slug": "this-land",
+    "title": "This Land",
+    "description": "Horn Octet",
+    "audio": "/audio/This Land.mp3",
+    "fullScore": "/scores/this land/This Land.pdf",
+    "instruments": ["French Horn"],
+    "coverImage": "/images/This Land.jpg",
+    "parts": [
+      { "name": "Horn 1", "url": "/scores/this land/This Land-Horn_1.pdf" },
+      { "name": "Horn 2", "url": "/scores/this land/This Land-Horn_2.pdf" },
+      { "name": "Horn 3", "url": "/scores/this land/This Land-Horn_3.pdf" },
+      { "name": "Horn 4", "url": "/scores/this land/This Land-Horn_4.pdf" },
+      { "name": "Horn 5", "url": "/scores/this land/This Land-Horn_5.pdf" },
+      { "name": "Horn 6", "url": "/scores/this land/This Land-Horn_6.pdf" },
+      { "name": "Horn 7", "url": "/scores/this land/This Land-Horn_7.pdf" },
+      { "name": "Horn 8", "url": "/scores/this land/This Land-Horn_8.pdf" }
+    ]
+  },
+
+  {
+    "slug": "obi-wan",
+    "title": "Obi-Wan Kenobi",
+    "description": "Horn Octet",
+    "audio": "/audio/Obi-Wan Kenobi.mp3",
+    "fullScore": "/scores/obi-wan/Obi-Wan.pdf",
+    "instruments": ["French Horn"],
+    "coverImage": "/images/Obi-Wan.jpg",
+    "parts": [
+      { "name": "Horn 1", "url": "/scores/obi-wan/Obi-Wan-Horn_1.pdf" },
+      { "name": "Horn 2", "url": "/scores/obi-wan/Obi-Wan-Horn_2.pdf" },
+      { "name": "Horn 3", "url": "/scores/obi-wan/Obi-Wan-Horn_3.pdf" },
+      { "name": "Horn 4", "url": "/scores/obi-wan/Obi-Wan-Horn_4.pdf" },
+      { "name": "Horn 5", "url": "/scores/obi-wan/Obi-Wan-Horn_5.pdf" },
+      { "name": "Horn 6", "url": "/scores/obi-wan/Obi-Wan-Horn_6.pdf" },
+      { "name": "Horn 7", "url": "/scores/obi-wan/Obi-Wan-Horn_7.pdf" },
+      { "name": "Horn 8", "url": "/scores/obi-wan/Obi-Wan-Horn_8.pdf" }
+    ]
+  },
+
+  {
+    "slug": "audience-choir",
+    "title": "Audience Choir (Jacob Collier Transcription)",
+    "description": "Horn Trio",
+    "audio": "/audio/Audience Choir (Jacob Collier Transcription).mp3",
+    "fullScore": "/scores/Audience Choir.pdf",
+    "instruments": ["French Horn"],
+    "coverImage": "/images/Audience Choir.webp",
+    "parts": [
+      { "name": "Horn 1", "url": "/scores/Audience Choir-Horn_1.pdf" },
+      { "name": "Horn 2", "url": "/scores/Audience Choir-Horn_2.pdf" },
+      { "name": "Horn 3", "url": "/scores/Audience Choir-Horn_3.pdf" }
+    ]
+  },
+
+  {
+    "slug": "hymn-of-acxiom",
+    "title": "Hymn of Acxiom",
+    "description": "Horn Ensemble",
+    "audio": "/audio/Hymn of Acxiom.mp3",
+    "fullScore": "/scores/hymn of acxiom/Hymn of Acxiom.pdf",
+    "instruments": ["French Horn"],
+    "coverImage": "/images/Hymn of Acxiom.jpg",
+    "parts": [
+      { "name": "Horn 1", "url": "/scores/hymn of acxiom/Hymn of Acxiom-Horn_1.pdf" },
+      { "name": "Horn 2", "url": "/scores/hymn of acxiom/Hymn of Acxiom-Horn_2.pdf" },
+      { "name": "Horn 3", "url": "/scores/hymn of acxiom/Hymn of Acxiom-Horn_3.pdf" },
+      { "name": "Horn 4", "url": "/scores/hymn of acxiom/Hymn of Acxiom-Horn_4.pdf" },
+      { "name": "Horn 5", "url": "/scores/hymn of acxiom/Hymn of Acxiom-Horn_5.pdf" },
+      { "name": "Horn 6", "url": "/scores/hymn of acxiom/Hymn of Acxiom-Horn_6.pdf" },
+      { "name": "Horn 7", "url": "/scores/hymn of acxiom/Hymn of Acxiom-Horn_7.pdf" },
+      { "name": "Horn 8", "url": "/scores/hymn of acxiom/Hymn of Acxiom-Horn_8.pdf" },
+      { "name": "Horn 9", "url": "/scores/hymn of acxiom/Hymn of Acxiom-Horn_9.pdf" }
+    ]
+  },
+
+  {
+    "slug": "a-million-dreams",
+    "title": "A Million Dreams",
+    "description": "Brass Quartet",
+    "audio": "/audio/A Million Dreams.mp3",
+    "fullScore": "/scores/a million dreams/A Million Dreams.pdf",
+    "instruments": ["French Horn", "Trombone", "Euphonium", "Tuba"],
+    "coverImage": "/images/A Million Dreams.jpeg",
+    "parts": [
+      { "name": "Horn", "url": "/scores/a million dreams/A Million Dreams-Horn.pdf" },
+      { "name": "Trombone", "url": "/scores/a million dreams/A Million Dreams-Trombone.pdf" },
+      { "name": "Euphonium", "url": "/scores/a million dreams/A Million Dreams-Euphonium.pdf" },
+      { "name": "Tuba", "url": "/scores/a million dreams/A Million Dreams-Tuba.pdf" }
+    ]
+  }
+]
+  
