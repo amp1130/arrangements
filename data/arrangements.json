@@ -186,6 +186,154 @@
       { "name": "Horn 7", "url": "/scores/oogway ascends/Oogway Ascends-Horn_7.pdf" },
       { "name": "Horn 8", "url": "/scores/oogway ascends/Oogway Ascends-Horn_8.pdf" }
     ]
+  },
+
+  {
+    "slug": "loki",
+    "title": "Loki Medley",
+    "description": "Horn Octet",
+    "audio": "/audio/Loki Medley.mp3",
+    "fullScore": "/scores/loki/Loki.pdf",
+    "instruments": ["French Horn"],
+    "coverImage": "/images/Loki.jpeg",
+    "parts": [
+      { "name": "Horn 1", "url": "/scores/loki/Loki-Horn_1.pdf" },
+      { "name": "Horn 2", "url": "/scores/loki/Loki-Horn_2.pdf" },
+      { "name": "Horn 3", "url": "/scores/loki/Loki-Horn_3.pdf" },
+      { "name": "Horn 4", "url": "/scores/loki/Loki-Horn_4.pdf" },
+      { "name": "Horn 5", "url": "/scores/loki/Loki-Horn_5.pdf" },
+      { "name": "Horn 6", "url": "/scores/loki/Loki-Horn_6.pdf" },
+      { "name": "Horn 7", "url": "/scores/loki/Loki-Horn_7.pdf" },
+      { "name": "Horn 8", "url": "/scores/loki/Loki-Horn_8.pdf" }
+    ]
+  },
+
+  {
+    "slug": "interstellar",
+    "title": "Interstellar - Day One",
+    "description": "Brass Quintet",
+    "audio": "/audio/Interstellar - Day One.mp3",
+    "fullScore": "/scores/interstellar/Interstellar.pdf",
+    "instruments": ["Trumpet", "French Horn", "Euphonium", "Tuba"],
+    "coverImage": "/images/Interstellar.jpg",
+    "parts": [
+      { "name": "Trumpet 1", "url": "/scores/interstellar/Interstellar-Trumpet_1.pdf" },
+      { "name": "Trumpet 2", "url": "/scores/interstellar/Interstellar-Trumpet_2.pdf" },
+      { "name": "Horn", "url": "/scores/interstellar/Interstellar-Horn.pdf" },
+      { "name": "Euphonium", "url": "/scores/interstellar/Interstellar-Euphonium.pdf" },
+      { "name": "Tuba", "url": "/scores/interstellar/Interstellar-Tuba.pdf" }
+    ]
+  },
+
+  {
+    "slug": "sonic-boom",
+    "title": "Sonic Boom",
+    "description": "Marching Brass Ensemble",
+    "audio": "/audio/Sonic Boom.mp3",
+    "fullScore": "/scores/sonic boom/Sonic Boom.pdf",
+    "instruments": ["Mellophone", "Trombone", "Baritone", "Tuba"],
+    "coverImage": "/images/Sonic Boom.jpg",
+    "parts": [
+      { "name": "Mellophone 1/2", "url": "/scores/sonic boom/Sonic Boom-Mellophone_1_2.pdf" },
+      { "name": "Trombone", "url": "/scores/sonic boom/Sonic Boom-Trombone.pdf" },
+      { "name": "Baritone 1/2", "url": "/scores/sonic boom/Sonic Boom-Baritone_1_2.pdf" },
+      { "name": "Tuba 1/2", "url": "/scores/sonic boom/Sonic Boom-Tuba_1_2.pdf" }
+    ]
+  },
+
+  {
+    "slug": "misty-mountains-cold",
+    "title": "The Misty Mountains Cold",
+    "description": "Horn Quartet",
+    "audio": "/audio/Misty Mountains Cold.mp3",
+    "fullScore": "/scores/the misty mountains cold/The Misty Mountains Cold.pdf",
+    "instruments": ["French Horn"],
+    "coverImage": "/images/Misty Mountain Cold.jpeg",
+    "parts": [
+      { "name": "Horn 1", "url": "/scores/the misty mountains cold/The Misty Mountains Cold-Horn_1.pdf" },
+      { "name": "Horn 2", "url": "/scores/the misty mountains cold/The Misty Mountains Cold-Horn_2.pdf" },
+      { "name": "Horn 3", "url": "/scores/the misty mountains cold/The Misty Mountains Cold-Horn_3.pdf" },
+      { "name": "Horn 4", "url": "/scores/the misty mountains cold/The Misty Mountains Cold-Horn_4.pdf" }
+    ]
+  },
+
+  {
+    "slug": "star-spangled-banner",
+    "title": "Star Spangled Banner",
+    "description": "Mellophone Quartet",
+    "audio": "/audio/Star Spangled Banner.mp3",
+    "fullScore": "/scores/star spangled banner/Star Spangled Banner.pdf",
+    "instruments": ["Mellophone"],
+    "coverImage": "/images/Star Spangled Banner.jpg",
+    "parts": [
+      { "name": "Mellophone 1", "url": "/scores/star spangled banner/Star Spangled Banner-Mellophone_1.pdf" },
+      { "name": "Mellophone 2", "url": "/scores/star spangled banner/Star Spangled Banner-Mellophone_2.pdf" },
+      { "name": "Mellophone 3", "url": "/scores/star spangled banner/Star Spangled Banner-Mellophone_3.pdf" },
+      { "name": "Mellophone 4", "url": "/scores/star spangled banner/Star Spangled Banner-Mellophone_4.pdf" }
+    ]
+  },
+
+  {
+    "slug": "seven-nation-army",
+    "title": "Seven Nation Army",
+    "description": "Mellophone Quartet",
+    "audio": "/audio/Seven Nation Army.mp3",
+    "fullScore": "/scores/seven nation army/Seven Nation Army.pdf",
+    "instruments": ["Mellophone"],
+    "coverImage": "/images/Seven Nation Army.jpg",
+    "parts": [
+      { "name": "Mellophone 1", "url": "/scores/seven nation army/Seven Nation Army-Mellophone_1.pdf" },
+      { "name": "Mellophone 2", "url": "/scores/seven nation army/Seven Nation Army-Mellophone_2.pdf" },
+      { "name": "Mellophone 3", "url": "/scores/seven nation army/Seven Nation Army-Mellophone_3.pdf" },
+      { "name": "Mellophone 4", "url": "/scores/seven nation army/Seven Nation Army-Mellophone_4.pdf" }
+    ]
+  },
+
+  {
+    "slug": "brawl-stars-hn",
+    "title": "Brawl Stars",
+    "description": "Horn Trio",
+    "audio": "/audio/Brawl Stars (1).mp3",
+    "fullScore": "/scores/brawl stars/Hn(3)/Brawl Stars.pdf",
+    "instruments": ["French Horn"],
+    "coverImage": "/images/Brawl Stars.jpg",
+    "parts": [
+      { "name": "Horn 1", "url": "/scores/brawl stars/Hn(3)/Brawl Stars-Horn_1.pdf" },
+      { "name": "Horn 2", "url": "/scores/brawl stars/Hn(3)/Brawl Stars-Horn_2.pdf" },
+      { "name": "Horn 3", "url": "/scores/brawl stars/Hn(3)/Brawl Stars-Horn_3.pdf" }
+    ]
+  },
+
+  {
+    "slug": "brawl-stars",
+    "title": "Brawl Stars",
+    "description": "Clarinet, Trumpet, Horn Trio",
+    "audio":"/audio/Brawl Stars.mp3",
+    "fullScore":"/scores/brawl stars/Hn_Cl_Tr/Brawl Stars.pdf",
+    "instruments": ["Clarinet", "Trumpet", "French Horn"],
+    "coverImage": "/images/Brawl Stars.jpg",
+    "parts": [
+      { "name": "Clarinet", "url": "/scores/brawl stars/Hn_Cl_Tr/Brawl Stars-Clarinet.pdf" },
+      { "name": "Trumpet", "url": "/scores/brawl stars/Hn_Cl_Tr/Brawl Stars-Trumpet.pdf" },
+      { "name": "Horn", "url": "/scores/brawl stars/Hn_Cl_Tr/Brawl Stars-Horn.pdf" }
+    ]
+  },
+
+  {
+    "slug": "the-mandalorian",
+    "title": "The Mandalorian",
+    "description": "Horn Quintet",
+    "audio": "/audio/The Mandalorian.mp3",
+    "fullScore": "/scores/the mandalorian/The Mandalorian.pdf",
+    "instruments": ["French Horn"],
+    "coverImage": "/images/Mandalorian.jpg",
+    "parts": [
+      { "name": "Horn 1", "url": "/scores/the mandalorian/The Mandalorian-Horn_1.pdf" },
+      { "name": "Horn 2", "url": "/scores/the mandalorian/The Mandalorian-Horn_2.pdf" },
+      { "name": "Horn 3", "url": "/scores/the mandalorian/The Mandalorian-Horn_3.pdf" },
+      { "name": "Horn 4", "url": "/scores/the mandalorian/The Mandalorian-Horn_4.pdf" },
+      { "name": "Horn 5", "url": "/scores/the mandalorian/The Mandalorian-Horn_5.pdf" }
+    ]
   }
 ]
   
