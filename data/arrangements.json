@@ -89,6 +89,103 @@
       { "name": "Euphonium", "url": "/scores/a million dreams/A Million Dreams-Euphonium.pdf" },
       { "name": "Tuba", "url": "/scores/a million dreams/A Million Dreams-Tuba.pdf" }
     ]
+  },
+
+  {
+    "slug": "nearer-my-god-to-thee",
+    "title": "Nearer, My God, to Thee",
+    "description": "Horn Ensemble",
+    "audio": "/audio/Nearer My God to Thee.mp3",
+    "fullScore": "/scores/nearer my god to thee/Nearer, My God, to Thee.pdf",
+    "instruments": ["French Horn"],
+    "coverImage": "/images/Nearer My God To Thee.jpg",
+    "parts": [
+      { "name": "Horn 1", "url": "/scores/nearer my god to thee/Nearer, My God, to Thee-Horn_1.pdf" },
+      { "name": "Horn 2", "url": "/scores/nearer my god to thee/Nearer, My God, to Thee-Horn_2.pdf" },
+      { "name": "Horn 3", "url": "/scores/nearer my god to thee/Nearer, My God, to Thee-Horn_3.pdf" },
+      { "name": "Horn 4", "url": "/scores/nearer my god to thee/Nearer, My God, to Thee-Horn_4.pdf" },
+      { "name": "Horn 5", "url": "/scores/nearer my god to thee/Nearer, My God, to Thee-Horn_5.pdf" },
+      { "name": "Horn 6", "url": "/scores/nearer my god to thee/Nearer, My God, to Thee-Horn_6.pdf" },
+      { "name": "Horn 7", "url": "/scores/nearer my god to thee/Nearer, My God, to Thee-Horn_7.pdf" },
+      { "name": "Horn 8", "url": "/scores/nearer my god to thee/Nearer, My God, to Thee-Horn_8.pdf" },
+      { "name": "Horn 9", "url": "/scores/nearer my god to thee/Nearer, My God, to Thee-Horn_9.pdf" }
+    ]
+  },
+
+  {
+    "slug": "heart-of-courage",
+    "title": "Heart of Courage",
+    "description": "Horn Octet",
+    "audio": "/audio/Heart of Courage.mp3",
+    "fullScore": "/scores/heart of courage/Heart of Courage.pdf",
+    "instruments": ["French Horn"],
+    "coverImage": "/images/Heart of Courage.jpg",
+    "parts": [
+      { "name": "Horn 1", "url": "/scores/heart of courage/Heart of Courage-Horn_1.pdf" },
+      { "name": "Horn 2", "url": "/scores/heart of courage/Heart of Courage-Horn_2.pdf" },
+      { "name": "Horn 3", "url": "/scores/heart of courage/Heart of Courage-Horn_3.pdf" },
+      { "name": "Horn 4", "url": "/scores/heart of courage/Heart of Courage-Horn_4.pdf" },
+      { "name": "Horn 5", "url": "/scores/heart of courage/Heart of Courage-Horn_5.pdf" },
+      { "name": "Horn 6", "url": "/scores/heart of courage/Heart of Courage-Horn_6.pdf" },
+      { "name": "Horn 7", "url": "/scores/heart of courage/Heart of Courage-Horn_7.pdf" },
+      { "name": "Horn 8", "url": "/scores/heart of courage/Heart of Courage-Horn_8.pdf" }
+    ]
+  },
+
+  {
+    "slug": "test-drive",
+    "title": "Test Drive",
+    "description": "Brass Ensemble",
+    "audio": "/audio/Test Drive.mp3",
+    "fullScore": "/scores/test drive/Test Drive.pdf",
+    "instruments": ["French Horn", "Euphonium", "Trombone", "Tuba"],
+    "coverImage": "/images/Test Drive.jpeg",
+    "parts": [
+      { "name": "Horn 1/2", "url": "/scores/test drive/Test Drive-Horn_1_2.pdf" },
+      { "name": "Horn 3/4", "url": "/scores/test drive/Test Drive-Horn_3_4.pdf" },
+      { "name": "Euphonium", "url": "/scores/test drive/Test Drive-Euphonium.pdf" },
+      { "name": "Trombone 1", "url": "/scores/test drive/Test Drive-Trombone_1.pdf" },
+      { "name": "Trombone 2", "url": "/scores/test drive/Test Drive-Trombone_2.pdf" },
+      { "name": "Trombone 3", "url": "/scores/test drive/Test Drive-Trombone_3.pdf" },
+      { "name": "Tuba", "url": "/scores/test drive/Test Drive-Tuba.pdf" }
+    ]
+  },
+
+  {
+    "slug": "hallelujah",
+    "title": "Hallelujah (Pentatonix)",
+    "description": "Horn Quintet",
+    "audio": "/audio/Hallelujah (Pentatonix).mp3",
+    "fullScore": "/scores/hallelujah/Hallelujah.pdf",
+    "instruments": ["French Horn"],
+    "coverImage": "/images/Hallelujah.jpg",
+    "parts": [
+      { "name": "Horn 1", "url": "/scores/hallelujah/Hallelujah-Horn_1.pdf" },
+      { "name": "Horn 2", "url": "/scores/hallelujah/Hallelujah-Horn_2.pdf" },
+      { "name": "Horn 3", "url": "/scores/hallelujah/Hallelujah-Horn_3.pdf" },
+      { "name": "Horn 4", "url": "/scores/hallelujah/Hallelujah-Horn_4.pdf" },
+      { "name": "Horn 5", "url": "/scores/hallelujah/Hallelujah-Horn_5.pdf" }
+    ]
+  },
+
+  {
+    "slug": "oogway-ascends",
+    "title": "Oogway Ascends",
+    "description": "Horn Octet",
+    "audio": "/audio/Oogway Ascends.mp3",
+    "fullScore": "/scores/oogway ascends/Oogway Ascends.pdf",
+    "instruments": ["French Horn"],
+    "coverImage": "/images/Oogway.jpg",
+    "parts": [
+      { "name": "Horn 1", "url": "/scores/oogway ascends/Oogway Ascends-Horn_1.pdf" },
+      { "name": "Horn 2", "url": "/scores/oogway ascends/Oogway Ascends-Horn_2.pdf" },
+      { "name": "Horn 3", "url": "/scores/oogway ascends/Oogway Ascends-Horn_3.pdf" },
+      { "name": "Horn 4", "url": "/scores/oogway ascends/Oogway Ascends-Horn_4.pdf" },
+      { "name": "Horn 5", "url": "/scores/oogway ascends/Oogway Ascends-Horn_5.pdf" },
+      { "name": "Horn 6", "url": "/scores/oogway ascends/Oogway Ascends-Horn_6.pdf" },
+      { "name": "Horn 7", "url": "/scores/oogway ascends/Oogway Ascends-Horn_7.pdf" },
+      { "name": "Horn 8", "url": "/scores/oogway ascends/Oogway Ascends-Horn_8.pdf" }
+    ]
   }
 ]
   
